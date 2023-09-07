@@ -1,0 +1,49 @@
+.fishAndCare {
+    display: flex;
+    padding: 10%;
+    justify-content: center;
+    border: 1px dotted khaki;
+    flex-wrap: wrap;
+    background-color: rgb(16, 180, 180);
+    font-size: medium;
+}
+
+.fishOwned {
+    display: flex;
+    flex-direction: column;
+    border: 1px dotted brown;
+    padding: 1em;
+    margin: 1em;
+    text-emphasis: center;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: medium;
+}
+
+.fishPic {
+    height: 15rem;
+    width: 15rem;
+    margin: 1rem;
+}
+
+.fish {
+    display: flex;
+    flex-direction: column;
+    border: 1px dotted yellowgreen;
+    margin: 1rem;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: medium;
+
+}
+
+.fishQuality {
+    color: black;
+
+}
+.fishCare {
+    display: flex;
+    flex-direction: column;
+    margin: 3rem;
+    font-size: large;
+}
