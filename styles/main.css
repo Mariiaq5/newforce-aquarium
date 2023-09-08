@@ -21,9 +21,9 @@
 }
 
 .fishPic {
-    height: 15rem;
-    width: 15rem;
-    margin: 1rem;
+    height: 40rem;
+    width: 40rem;
+    margin: 5rem;
 }
 
 .fish {
@@ -39,11 +39,30 @@
 
 .fishQuality {
     color: black;
+    font-size: 2rem;
 
 }
+
 .fishCare {
     display: flex;
     flex-direction: column;
-    margin: 3rem;
-    font-size: large;
+    margin: 5rem;
+    border: 1px dotted yellowgreen;
+    font-size: x-large;
+}
+
+.fishMartin {
+    display: flex;
+    flex-direction: column;
+    margin: 5rem;
+    border: 1px dotted yellowgreen;
+    font-size: x-large;
+}
+
+.fishHarvested {
+    display: flex;
+    flex-direction: column;
+    margin: 5rem;
+    border: 1px dotted yellowgreen;
+    font-size: x-large;
 }
